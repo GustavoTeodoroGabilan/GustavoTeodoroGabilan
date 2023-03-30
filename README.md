@@ -30,6 +30,6 @@
 ![adobeillustrator](https://img.shields.io/badge/-illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&labelColor=0D1117)&nbsp;
 ![cisco](https://img.shields.io/badge/-cisco-0D1117?style=for-the-badge&logo=cisco&labelColor=0D1117)&nbsp;
   
- ![Snake animation](https://github.com/V1ctorMathias/V1ctorMathias/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/GustavoTeodoroGabilan/GustavoTeodoroGabilan/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff5252&height=120&section=footer"/>
