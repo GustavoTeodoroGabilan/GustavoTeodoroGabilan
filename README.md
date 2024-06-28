@@ -35,6 +35,10 @@
 ![adobeillustrator](https://img.shields.io/badge/-illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&labelColor=0D1117)&nbsp;
 ![cisco](https://img.shields.io/badge/-cisco-0D1117?style=for-the-badge&logo=cisco&labelColor=0D1117)&nbsp;
   
- ![Snake animation](https://github.com/GustavoTeodoroGabilan/GustavoTeodoroGabilan/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoTeodoroGabilan/GustavoTeodoroGabilan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoTeodoroGabilan/GustavoTeodoroGabilan/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoTeodoroGabilan/GustavoTeodoroGabilan/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff5252&height=120&section=footer"/>
