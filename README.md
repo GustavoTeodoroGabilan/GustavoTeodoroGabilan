@@ -7,7 +7,7 @@
 
 ## Contatos:
 <div align="left">  
-<a href="https://www.linkedin.com/in/gustavo-teodoro-gabilan-5438b0253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>&nbsp;
+<a href="https://www.linkedin.com/in/gustavo-teodoro-gabilan-5438b0253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 <a href="mailto:gustavo.t.gabilan.corp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div> 
 
